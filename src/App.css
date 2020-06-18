@@ -1,0 +1,9 @@
+
+.nav-link.active, button:not(.disabled) {
+    background: #007bff !important;
+    color: #ffffff !important;
+}
+
+.navbar .nav-link.active {
+    border-radius: 5px;
+}
